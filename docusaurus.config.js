@@ -28,8 +28,8 @@ module.exports = {
         },
         {to: '/blog', label: '威程', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: '官网',
+          href: 'https://github.com/langjie-network/my-website',
+          label: '文档仓库',
           position: 'right',
         },
       ],

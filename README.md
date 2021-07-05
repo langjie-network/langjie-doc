@@ -1,5 +1,12 @@
 # 文档库
 
+# 使用docusaurus做文档网站
+
+https://docusaurus.io/zh-CN/docs
+
+# 在线预览
+http://minglie3000.vaiwan.com/docs/intro
+
 # 目录
 _category_.json 是目录配置文件
 
@@ -24,3 +31,6 @@ sidebar_position 数字越小越靠前
 sidebar_position: 1
 ---
 ```
+
+##  对应关系
+![image.png](mydoc/doc.png)
