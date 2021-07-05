@@ -7,6 +7,7 @@ https://docusaurus.io/zh-CN/docs
 
 # 启动
 ``` bash
+git clone git@github.com:langjie-network/langjie-doc.git
 cd langjie-doc/
 cnpm i
 npx docusaurus start
