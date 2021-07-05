@@ -33,4 +33,4 @@ sidebar_position: 1
 ```
 
 ##  对应关系
-![image.png](mydoc/doc.png)
+![image.png](https://langjie.oss-cn-hangzhou.aliyuncs.com/minglie/img/doc.png)
