@@ -24,13 +24,18 @@ _category_.json
 ```
 
 
-##  文档顺序
+##  文档配置
 sidebar_position 数字越小越靠前
 ``` sh
 ---
+title: 我是文档标题
 sidebar_position: 1
 ---
 ```
 
 ##  对应关系
 ![image.png](https://langjie.oss-cn-hangzhou.aliyuncs.com/minglie/img/doc.png)
+
+
+## 参考文档
+https://www.misterma.com/archives/872/

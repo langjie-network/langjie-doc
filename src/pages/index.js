@@ -12,6 +12,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       
         <div className={styles.buttons}>
+          <div>我是主页</div>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
@@ -30,7 +31,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <div>我是主页内容</div>
       </main>
     </Layout>
   );
