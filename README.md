@@ -4,6 +4,14 @@
 
 https://docusaurus.io/zh-CN/docs
 
+
+# 启动
+``` bash
+cd langjie-doc/
+cnpm i
+npx docusaurus start
+```
+
 # 在线预览
 http://minglie3000.vaiwan.com/docs/intro
 
