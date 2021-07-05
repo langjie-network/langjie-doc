@@ -4,15 +4,6 @@
 
 https://docusaurus.io/zh-CN/docs
 
-
-# 启动
-``` bash
-git clone git@github.com:langjie-network/langjie-doc.git
-cd langjie-doc/
-cnpm i
-npx docusaurus start
-```
-
 # 在线预览
 http://minglie3000.vaiwan.com/docs/intro
 
