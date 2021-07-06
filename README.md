@@ -5,8 +5,7 @@
 https://docusaurus.io/zh-CN/docs
 
 # 在线预览
-http://minglie3000x.vaiwan.com/docs/intro
-
+http://minglie3000x.vaiwan.com/langjie-doc/docs/intro
 # 目录
 _category_.json 是目录配置文件
 
